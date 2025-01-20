@@ -1,4 +1,4 @@
-package practice.main;
+package practice.main.If_Else_ex;
 
 import java.util.Scanner;
 

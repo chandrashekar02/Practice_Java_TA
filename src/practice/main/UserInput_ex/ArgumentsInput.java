@@ -1,4 +1,4 @@
-package practice.main;
+package practice.main.UserInput_ex;
 
 public class ArgumentsInput {
     public static void main(String[] args) {

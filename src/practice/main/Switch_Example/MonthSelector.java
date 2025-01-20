@@ -1,4 +1,4 @@
-package practice.main;
+package practice.main.Switch_Example;
 
 import java.util.Scanner;
 

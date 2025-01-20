@@ -1,6 +1,5 @@
-package practice.main;
+package practice.main.Switch_Example;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Calculator {

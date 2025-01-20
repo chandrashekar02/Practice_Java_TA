@@ -1,4 +1,4 @@
-package practice.main;
+package practice.main.Ternary_Condition_ex;
 
 import java.util.Scanner;
 
